@@ -50,6 +50,8 @@ It involves:
 SpaCy is a free open source library for advanced NLP in Python. It has been specifically designed to build NLP applications that can help you understand large volumes of text. That’s one of the differences with its main competitor, NLTK, which was created mostly for research and teaching purposes. SpaCy is fast, easy to use, and very well documented. Instead of presenting you with all the available options to solve an NLP problem, it focuses on the best algorithm you can use for that task. However, for the time being, it only supports the English language.
 
 
+### Neural Networks for Sentiment Analysis
+Neural networks are computational structures they attempt to mirror the way human brain recognizes patterns
 
 
 #### Reference:

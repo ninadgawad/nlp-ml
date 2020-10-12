@@ -12,6 +12,7 @@ import textwrap
 import trax 
 from trax import layers as tl
 from trax.fastmath import numpy as tnp 
+np.set_printoptions(threshold=sys.maxsize)
 
 # Step1: Create Positional Encoding
 def createPosEncoder(vocabSize, embeddingDepth, dropout, maxLength, mode):

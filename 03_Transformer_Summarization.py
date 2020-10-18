@@ -7,12 +7,13 @@ import time
 import numpy as np
 import pandas as pd
 import gin
-
+import time
 import textwrap 
 import trax 
 from trax import layers as tl
 from trax.fastmath import numpy as tnp 
 np.set_printoptions(threshold=sys.maxsize)
+time.sleep(30)
 
 # Step1: Create Positional Encoding
 def createPosEncoder(vocabSize, embeddingDepth, dropout, maxLength, mode):

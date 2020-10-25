@@ -2,3 +2,8 @@
 * It is a multi layer bidirectional transformer 
 * It make use of positinal embeddings 
 * Ecoder based 
+
+# It can be use to perform multiple taks like:
+* NER or Entities recognition
+* Paraphrase 
+* Generate Summary

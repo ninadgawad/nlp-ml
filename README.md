@@ -57,4 +57,8 @@ Neural networks are computational structures they attempt to mirror the way huma
 #### Reference:
 - [https://spacy.io/usage/spacy-101]
 - [https://monkeylearn.com/natural-language-processing/]
+
+
+### Courses
+https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
  
